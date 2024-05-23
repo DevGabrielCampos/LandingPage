@@ -1,0 +1,200 @@
+header{
+    color: black;
+    background-color: rgba(193, 8, 250, 0.363);
+    height: 70px;
+    width: 100%;
+    display: inline-block;
+}
+.logo{
+    width: 110%;
+    display: inline-block;
+    color:black;
+    position:relative;
+    left: 700px;
+    top: 25px;
+    font-size: 30px;
+}
+nav{
+
+    width: 58%;
+    display: inline-block;
+
+}
+ul{
+    display: inline-block;
+    width: 168%;
+    text-align: end;
+
+
+}
+li{
+    display: inline;
+    padding: 1%;
+}
+
+ /*CSS do section*/
+
+ section{
+    background-color:rgba(98, 1, 128, 0.891);
+    height: 450px;
+    display: inline-block;
+    width: 100%;
+ }
+ figure{
+    height: 200px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    position:relative;
+    left: 600px;
+}
+span{
+    height: 200px;
+    width: 50%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 8%;
+    position:relative;
+    left: 50px;
+}
+img{
+    display: flex;
+    height: 450px;
+    position:relative;
+    right: 250px;
+    background-size: cover;
+    background-position: center; 
+}
+
+ /* Article vídeos*/
+
+ article{
+    background-color: rgba(95, 21, 129, 0.637);
+    height: 350px;
+    left:612px;
+    top: -16;
+}
+
+aside{
+   
+    margin: 15px;
+    height: 80%;
+    position: relative;
+  
+    left:610px;
+    width:30%;
+    display: inline-block;
+}
+h3{
+ 
+    text-align: center;
+    color:rgb(166, 166, 166);
+}
+
+b{
+ 
+    height: 250px;
+    position: relative;
+    left: 8px
+}
+iframe{
+    width: 620px;
+    height: 450px;
+ 
+}
+
+footer{
+    height: 250px;
+    border: solid 1px;
+    margin-top:10px;
+    display: flex;
+    width: 100%;
+}
+.logoFo{
+    height: 230px;
+    border: solid 1px;
+    margin-top:10px;
+    margin-left:50px;
+    width:30%;
+    display: inline-block;
+}
+.listaFo{
+    height: 230px;
+    border: solid 1px;
+    margin-top:10px;
+    margin-left:10px;
+    width:30%;
+    display: inline-block;
+}
+.contatoFo{
+    height: 230px;
+    border: solid 1px;
+    margin-top:10px;
+    margin-left:10px;
+    width:25%;
+    display: inline-block;    
+}
+.logoFo2{
+    height: 210px;
+    border: solid 1px;
+    margin: 10px 10px 10px 10px;
+    background-color: aqua;
+    width: 90%;
+    display: inline-block;
+}
+.imgGato{
+    width:30%;
+    position: relative;
+    left:90px;
+    top:40px
+}
+.listaFo2{
+    height: 210px;
+    border: solid 1px;
+    margin: 10px 10px 10px 10px;
+    background-color: rgb(134, 229, 102);
+    
+}
+
+.listaFo2 ul{
+    list-style-type: none;
+    position: relative;
+    right:50px;
+}
+
+.listaFo2 li{
+    margin-top: 10px;
+    font-size: 15px;
+    position: relative;
+    right:150px;
+    top:22px;
+}
+
+h5{
+    font-size: 18px;
+    text-align: center;
+    color:#fff;
+    margin-top: 10px;
+}
+
+.contatoFo2{
+    height: 120px;
+    border: solid 1px;
+    margin: 10px 10px 10px 10px;
+    background-color: rgb(168, 71, 170);
+   
+}
+.contatoFo3{
+    height: 60px;
+    border: solid 1px;
+    margin: 10px 10px 10px 10px;
+    background-color: rgb(168, 71, 170);
+    text-align: center;
+}
+*{
+    margin: 0;
+}
+.video{
+    bottom: 25px;
+
+}
